@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
 /*	
-	 console.log('funciona');
+	 console.log('funciona cambio de informar');
 
 	$('h1').html('Etiqueta h1');
 	$('.display-4').html('desde clase');
